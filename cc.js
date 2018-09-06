@@ -1,2 +1,1 @@
-
-var name="小明12456"
+var name="FUCK YOU 小明"
