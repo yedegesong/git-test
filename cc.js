@@ -1,1 +1,1 @@
-var name="小明啊"
+var name="小明"
