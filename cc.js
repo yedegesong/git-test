@@ -1,1 +1,1 @@
-var name="小明  abcdefg 123"
+var name="FUCK YOU 小明"
