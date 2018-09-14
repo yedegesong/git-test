@@ -1,3 +1,2 @@
 .gitattributes merge=ours
-ff.js merge=ours
-hh.js merge=ours
+bb.js merge=ours
