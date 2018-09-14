@@ -1,1 +1,1 @@
-var name="我是master"
+var name ="我是gh-pages"
