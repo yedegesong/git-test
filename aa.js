@@ -1,1 +1,1 @@
-var name="我是小明"
+var name="我是master"
