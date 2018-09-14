@@ -1,1 +1,0 @@
-var name ="我是gh-pages"
