@@ -1,2 +1,2 @@
 
-console.log('我是测试456')
+console.log('hello,word')
