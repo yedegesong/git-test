@@ -1,0 +1,1 @@
+console.log('我是a.js文件,又一次发起git reset [commit]')

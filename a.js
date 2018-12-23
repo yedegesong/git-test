@@ -1,2 +1,2 @@
 
-console.log('hello,word123')
+console.log('我是b.js文件,又一次发起git reset [commit]')
