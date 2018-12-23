@@ -1,1 +1,1 @@
-console.log('测试git revert [kjhjhj]')
+console.log('测试git revert [okok]')
