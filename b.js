@@ -1,1 +1,1 @@
-console.log('我是a.js文件,又一次发起git reset [commit]')
+console.log('测试123456git revert [commit]')
