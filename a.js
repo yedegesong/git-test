@@ -1,2 +1,2 @@
 
-console.log('hello,word123')
+console.log('hello,word')
